@@ -1,11 +1,11 @@
 # ONU XPON PL8800Z 1U 10-inch Rack Mount
 
-This model is a 1U 10-inch rack mount designed specifically for the **ONU XPON PL8800Z**
+This model is a 1U 10-inch rack mount, designed specifically for the **ONU XPON PL8800Z**
 
 ## Links
 
-- [Model on Maker World](TODO)
-- [Model on Printables](TODO)
+- [Model on Maker World](https://makerworld.com/en/models/2855425-onu-xpon-pl8800z-1u-10-inch-rack-mount#profileId-3185604)
+- [Model on Printables](https://www.printables.com/model/1736533-onu-xpon-pl8800z-1u-10-inch-rack-mount)
 
 ## Variants
 
