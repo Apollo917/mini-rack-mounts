@@ -1,4 +1,4 @@
-# Mini-Rack Mount Templates
+# 10-inch Rack Mount Templates
 
 Collection of design templates for customizing mini-racks. These files provide accurate, standardized dimensions to help
 you design custom faceplates, brackets, and networking components without having to measure or prototype from scratch
@@ -28,5 +28,7 @@ you design custom faceplates, brackets, and networking components without having
 ### 3D
 
 <img src="_materials/1.png" alt="ONU rack mount preview 1" width="400">
+
+### Printed
 
 <img src="_materials/2.jpg" alt="ONU rack mount preview 1" width="400">
