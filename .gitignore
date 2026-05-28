@@ -164,3 +164,4 @@ buildNumber.properties
 
 ### Local
 *.local.*
+/.idea/
