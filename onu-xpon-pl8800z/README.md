@@ -41,14 +41,14 @@ To accommodate different installation requirements, this model is available in t
 
 ### 3D
 
-<img src="_materials/1.png" alt="ONU rack mount preview 1" width="400">
+<img src="_materials/1.png" alt="preview 1" width="400">
 
-<img src="_materials/2.png" alt="ONU rack mount preview 2" width="400">
+<img src="_materials/2.png" alt="preview 2" width="400">
 
-<img src="_materials/3.png" alt="ONU rack mount preview 3" width="400">
+<img src="_materials/3.png" alt="preview 3" width="400">
 
-<img src="_materials/4.png" alt="ONU rack mount preview 4" width="400">
+<img src="_materials/4.png" alt="preview 4" width="400">
 
-<img src="_materials/5.png" alt="ONU rack mount preview 5" width="400">
+<img src="_materials/5.png" alt="preview 5" width="400">
 
-<img src="_materials/6.png" alt="ONU rack mount preview 6" width="400">
+<img src="_materials/6.png" alt="preview 6" width="400">

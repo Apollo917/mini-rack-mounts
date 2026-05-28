@@ -27,8 +27,8 @@ you design custom faceplates, brackets, and networking components without having
 
 ### 3D
 
-<img src="_materials/1.png" alt="ONU rack mount preview 1" width="400">
+<img src="_materials/1.png" alt="preview 1" width="400">
 
 ### Printed
 
-<img src="_materials/2.jpg" alt="ONU rack mount preview 1" width="400">
+<img src="_materials/2.jpg" alt="preview 2" width="400">

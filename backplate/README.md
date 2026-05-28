@@ -5,15 +5,15 @@ power and connectivity, providing a clean, professional aesthetic for homelab in
 
 **Key Features:**
 
-- **Power Connectivity:** Integrated mounting for an IEC C14 power inlet, allowing you to establish a secure,
+- **Power Connectivity:** Integrated mounting for an C14 (AC01) power inlet, allowing you to establish a secure,
   standardized single-point power entry for your rack
 - **Network Routing:** Standardized Keystone cutout for RJ45 jacks, serving as a clean patch point for your homelab’s
   network backbone
 
 ## Links
 
-- [Model on Maker World](TODO)
-- [Model on Printables](TODO)
+- [Model on Maker World](https://makerworld.com/en/models/2858471-10-inch-rack-mount-1u-ac-keystone-rj45-backplate#profileId-3189465)
+- [Model on Printables](https://www.printables.com/model/1737504-10-inch-rack-mount-1u-ac-keystone-rj45-backplate)
 
 ## Files
 
