@@ -1,4 +1,4 @@
-# 10-inch Mini-rack Mounts
+# Mini-rack Mounts
 
 A library of rack mounts for 10-inch mini server racks
 
@@ -16,6 +16,9 @@ printers, alongside source _.f3d_ files and universal _.step_ files for full mod
 - [10-inch Rack Mount 1U AC Keystone RJ45 Backplate](backplate)
     - [Model on Maker World](https://makerworld.com/en/models/2858471-10-inch-rack-mount-1u-ac-keystone-rj45-backplate#profileId-3189465)
     - [Model on Printables](https://www.printables.com/model/1737504-10-inch-rack-mount-1u-ac-keystone-rj45-backplate)
+- [MikroTik hEX S 1U 10-inch Rack Mount](mikrotik-hex-s)
+    - [Model on Maker World](TODO)
+    - [Model on Printables](TODO)
 
 ## Links
 
