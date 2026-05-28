@@ -11,8 +11,8 @@ printers, alongside source _.f3d_ files and universal _.step_ files for full mod
     - [Model on Maker World](https://makerworld.com/en/models/2855425-onu-xpon-pl8800z-1u-10-inch-rack-mount#profileId-3185604)
     - [Model on Printables](https://www.printables.com/model/1736533-onu-xpon-pl8800z-1u-10-inch-rack-mount)
 - [Mini-rack Mount Templates](templates)
-    - [Model on Maker World](TODO)
-    - [Model on Printables](TODO)
+    - [Model on Maker World](https://makerworld.com/en/models/2858028-mini-rack-mount-templates#profileId-3188912)
+    - [Model on Printables](https://www.printables.com/model/1737275-mini-rack-mount-templates)
 
 ## Links
 
