@@ -14,8 +14,8 @@ you design custom faceplates, brackets, and networking components without having
 
 ## Links
 
-- [Model on Maker World](TODO)
-- [Model on Printables](TODO)
+- [Model on Maker World](https://makerworld.com/en/models/2858028-mini-rack-mount-templates#profileId-3188912)
+- [Model on Printables](https://www.printables.com/model/1737275-mini-rack-mount-templates)
 
 ## Files
 
