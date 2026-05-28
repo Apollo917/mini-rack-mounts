@@ -14,8 +14,8 @@ printers, alongside source _.f3d_ files and universal _.step_ files for full mod
     - [Model on Maker World](https://makerworld.com/en/models/2858028-mini-rack-mount-templates#profileId-3188912)
     - [Model on Printables](https://www.printables.com/model/1737275-mini-rack-mount-templates)
 - [10-inch Rack Mount 1U AC Keystone RJ45 Backplate](backplate)
-    - [Model on Maker World](TODO)
-    - [Model on Printables](TODO)
+    - [Model on Maker World](https://makerworld.com/en/models/2858471-10-inch-rack-mount-1u-ac-keystone-rj45-backplate#profileId-3189465)
+    - [Model on Printables](https://www.printables.com/model/1737504-10-inch-rack-mount-1u-ac-keystone-rj45-backplate)
 
 ## Links
 
