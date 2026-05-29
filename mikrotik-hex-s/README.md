@@ -9,8 +9,8 @@ A compact 1U rack mount designed to fit the MikroTik hEX S (RB760iGS) into stand
 
 ## Links
 
-- [Model on Maker World](https://makerworld.com/en/models/2858471-10-inch-rack-mount-1u-ac-keystone-rj45-backplate#profileId-3189465)
-- [Model on Printables](https://www.printables.com/model/1737504-10-inch-rack-mount-1u-ac-keystone-rj45-backplate)
+- [Model on Maker World](https://makerworld.com/en/models/2861896-mikrotik-hex-s-1u-10-inch-rack-mount#profileId-3193918)
+- [Model on Printables](https://www.printables.com/model/1737766-mikrotik-hex-s-1u-10-inch-rack-mount)
 
 ## Files
 
@@ -22,8 +22,24 @@ A compact 1U rack mount designed to fit the MikroTik hEX S (RB760iGS) into stand
 
 ### 3D
 
-<img src="_materials/1.png" alt="preview 1" width="400">
+<img src="_materials/8.png" alt="preview 8" width="400">
 
-<img src="_materials/2.png" alt="preview 2" width="400">
+<img src="_materials/9.png" alt="preview 9" width="400">
 
-<img src="_materials/3.png" alt="preview 3" width="400">
+<img src="_materials/10.png" alt="preview 10" width="400">
+
+### Printed
+
+<img src="_materials/1.jpeg" alt="preview 1" width="400">
+
+<img src="_materials/2.jpeg" alt="preview 2" width="400">
+
+<img src="_materials/3.jpeg" alt="preview 3" width="400">
+
+<img src="_materials/4.jpeg" alt="preview 4" width="400">
+
+<img src="_materials/5.jpeg" alt="preview 5" width="400">
+
+<img src="_materials/6.jpeg" alt="preview 6" width="400">
+
+<img src="_materials/7.jpeg" alt="preview 7" width="400">

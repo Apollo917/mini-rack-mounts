@@ -17,8 +17,8 @@ printers, alongside source _.f3d_ files and universal _.step_ files for full mod
     - [Model on Maker World](https://makerworld.com/en/models/2858471-10-inch-rack-mount-1u-ac-keystone-rj45-backplate#profileId-3189465)
     - [Model on Printables](https://www.printables.com/model/1737504-10-inch-rack-mount-1u-ac-keystone-rj45-backplate)
 - [MikroTik hEX S 1U 10-inch Rack Mount](mikrotik-hex-s)
-    - [Model on Maker World](TODO)
-    - [Model on Printables](TODO)
+    - [Model on Maker World](https://makerworld.com/en/models/2861896-mikrotik-hex-s-1u-10-inch-rack-mount#profileId-3193918)
+    - [Model on Printables](https://www.printables.com/model/1737766-mikrotik-hex-s-1u-10-inch-rack-mount)
 
 ## Links
 
