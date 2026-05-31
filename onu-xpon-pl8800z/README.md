@@ -52,3 +52,21 @@ To accommodate different installation requirements, this model is available in t
 <img src="_materials/5.png" alt="preview 5" width="400">
 
 <img src="_materials/6.png" alt="preview 6" width="400">
+
+### Printed
+
+<img src="_materials/8.jpeg" alt="preview 8" width="400">
+
+<img src="_materials/9.jpeg" alt="preview 9" width="400">
+
+<img src="_materials/10.jpeg" alt="preview 10" width="400">
+
+<img src="_materials/11.jpeg" alt="preview 11" width="400">
+
+<img src="_materials/12.jpeg" alt="preview 12" width="400">
+
+<img src="_materials/13.jpeg" alt="preview 13" width="400">
+
+<img src="_materials/14.jpeg" alt="preview 14" width="400">
+
+<img src="_materials/15.jpeg" alt="preview 15" width="400">
