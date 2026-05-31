@@ -43,3 +43,5 @@ A compact 1U rack mount designed to fit the MikroTik hEX S (RB760iGS) into stand
 <img src="_materials/6.jpeg" alt="preview 6" width="400">
 
 <img src="_materials/7.jpeg" alt="preview 7" width="400">
+
+<img src="_materials/11.jpeg" alt="preview 11" width="400">
